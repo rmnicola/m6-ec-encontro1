@@ -1,16 +1,25 @@
-# Introdução à Robótica Móvel e ROS
+[Voltar para o repositório principal :house:](https://github.com/rmnicola/m6-ec-encontros.git)
 
-**Atenção: esse texto foi criado com auxílio do ChatGPT e será editado em breve**
+# Introdução à Robótica Móvel e ROS <!-- omit in toc -->
 
-Este repositório contém materiais de apoio para o primeiro encontro do módulo 6 do curso de Engenharia de Computação do Inteli. O assunto do encontro foi uma introdução à robótica móvel, a sistemas operacionais e especificamente o robot operating system (ROS).
+## Objetivos do encontro
+* Introduzir o conceito de robôs móveis e diferenciá-los de braços robóticos.
+* Introduzir o conceito de sistemas operacionais e suas principais funções.
+* Introduzir o ROS e suas ferramentas para comunicação.
+* Setup de ambiente de desenvolvimento e construção do primeiro nó em ROS.
 
-## Conteúdo
+## Conteúdo <!-- omit in toc -->
 
-1. [O que é um robô móvel?](#o-que-é-um-robô-móvel)
-2. [Robôs móveis vs. braços robóticos](#robôs-móveis-vs-braços-robóticos)
-3. [O que é um sistema operacional?](#o-que-é-um-sistema-operacional)
-4. [Introdução ao Robot Operating System (ROS)](#introdução-ao-robot-operating-system-ros)
-5. [Vídeos](#vídeos)
+- [Objetivos do encontro](#objetivos-do-encontro)
+- [O que é um robô móvel?](#o-que-é-um-robô-móvel)
+- [O que é um sistema operacional?](#o-que-é-um-sistema-operacional)
+- [Robôs móveis vs. braços robóticos](#robôs-móveis-vs-braços-robóticos)
+- [Introdução ao Robot Operating System (ROS)](#introdução-ao-robot-operating-system-ros)
+  - [Principais características do ROS](#principais-características-do-ros)
+- [Vídeos](#vídeos)
+  - [Configurando um ambiente virtual em Python para trabalhar com o ROS](#configurando-um-ambiente-virtual-em-python-para-trabalhar-com-o-ros)
+  - [Criando um publisher simples em ROS](#criando-um-publisher-simples-em-ros)
+- [Referências](#referências)
 
 ## O que é um robô móvel?
 
@@ -41,3 +50,5 @@ O Robot Operating System (ROS) é um framework de software aberto que facilita o
 
 ### Criando um publisher simples em ROS
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R1ulM5XFQ0I/0.jpg)](https://www.youtube.com/watch?v=R1ulM5XFQ0I)
+
+## Referências
